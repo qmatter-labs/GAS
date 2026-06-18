@@ -14,6 +14,9 @@ Please see:
 - `notebooks` for an overview of the tools provided alongside examples.
 - `results` to see the jupyter notebooks used to generate the results in the paper.
 
-GAS © 2026 by Alexis Ralli is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
 
-This repository is available for non-commercial use under License CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ Commercial use requires a separate license agreement.
+Except for files otherwise noted, documentation, figures, benchmark results, datasets, and original source code authored by github contributors to this repository are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt). To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ .
+
+Files derived from or incorporating Apache License 2.0 licensed software, including `dicke.py`, are licensed under the Apache License 2.0 and remain subject to the terms of that license.
+
+Commercial use of the CC BY-NC 4.0 licensed materials requires a separate license agreement.
