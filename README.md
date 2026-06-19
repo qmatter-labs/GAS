@@ -2,7 +2,7 @@
 
 This repository stores the code and results for:
 
-CITE-PAPER
+[https://arxiv.org/abs/2606.20176](https://arxiv.org/abs/2606.20176)
 
 To install please pull repo then navigate to the root directory of the repository and run:
 
